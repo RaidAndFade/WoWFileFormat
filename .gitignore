@@ -1,0 +1,6 @@
+manuguess/wdc3
+.vscode
+listfiles/
+mlguess/headerdump.csv
+mlguess/inputs.csv
+mlguess/outputs_*.csv
